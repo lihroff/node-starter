@@ -1,5 +1,5 @@
 {
-  "name": "node-starter",
+  "name": "@mozleo/node-starter",
   "version": "1.0.0",
   "description": "Personal boilerplate to kickstart creating a Node.js module/repo",
   "repository": {
@@ -41,5 +41,8 @@
       "prettier --write",
       "git add"
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/lihroff/node-starter/issues"
   }
 }
