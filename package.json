@@ -1,11 +1,10 @@
 {
   "name": "@mozleo/node-starter",
-  "version": "1.0.0",
-  "description": "Personal boilerplate to kickstart creating a Node.js module/repo",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tommy-White/node-starter.git"
-  },
+  "version": "0.0.0",
+  "description": "<Personal boilerplate to kickstart creating a Node.js module/repo>",
+  "repository": "<https://https://github.com/lihroff/node-starter>",
+  "author": "<Tommy Lee>",
+  "license": "MIT",
   "scripts": {
     "test": "jest",
     "lint": "eslint --cache --fix --ext .js src *test*"
@@ -16,19 +15,6 @@
     "jest": "^24.9.0",
     "lint-staged": "^9.2.3",
     "prettier": "^1.18.2"
-  },
-  "keywords": [
-    "template",
-    "starter"
-  ],
-  "author": {
-    "name": "Tommy Lee",
-    "email": "lihroff@icloud.com",
-    "url": "https://fancylee.xyz"
-  },
-  "license": "MIT",
-  "engines": {
-    "node": ">=8"
   },
   "husky": {
     "hooks": {
@@ -42,7 +28,13 @@
       "git add"
     ]
   },
-  "bugs": {
-    "url": "https://github.com/lihroff/node-starter/issues"
+  "keywords": [
+    "boilerpalte",
+    "template",
+    "starter",
+    "node"
+  ],
+  "engines": {
+    "node": ">=8"
   }
 }
